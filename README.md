@@ -1,2 +1,3 @@
 # hello-world
-Hello World activity from GitHub
+
+Hey Peoples, I code for fun!
